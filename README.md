@@ -10,7 +10,9 @@ sudo apt-get install git -y
 pkg install python
 pkg install git
 ```
-
+```bash
+git clone https://github.com/newnol/termuxphishing
+```
 - phishing:
     - [ ]  Nexphisher: https://github.com/htr-tech/nexphisher
     - [ ]  Zphishing: https://github.com/htr-tech/zphisher
